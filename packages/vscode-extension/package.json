@@ -10,7 +10,8 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/carbonteq/antd-lsp.git"
+    "url": "git+https://github.com/carbonteq/antd-lsp.git",
+    "directory": "packages/vscode-extension"
   },
   "engines": {
     "vscode": "^1.99.0"

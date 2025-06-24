@@ -3,6 +3,11 @@
   "version": "0.0.1",
   "type": "module",
   "packageManager": "bun@1.2.17",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carbonteq/antd-lsp.git",
+    "directory": "packages/lsp-core"
+  },
   "engines": {
     "bun": ">=1.2.15"
   },
@@ -38,4 +43,3 @@
     "vitest": "^3.2.4"
   }
 }
-
